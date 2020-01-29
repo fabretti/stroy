@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap&subset=cyrillic");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body,
+#__nuxt,
+#__layout {
+  height: 100%;
+  font-family: Open Sans, sans-serif;
+}
+
+ul * {
+  list-style-type: none;
+}
+
+input,
+button {
+  outline: none;
+}
+
+button {
+  font-family: Open Sans;
+  cursor: pointer;
+}
+
+body {
+  color: #1e1d26;
+}
+
+.container {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.container__title {
+  margin-bottom: 16px;
+}
+
+.container__title h1 {
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: 700;
+}
+/*# sourceMappingURL=style.css.map */

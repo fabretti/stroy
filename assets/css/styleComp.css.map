@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "styleComp.scss"
+    ],
+    "names": [],
+    "file": "styleComp.css"
+}
